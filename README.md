@@ -1,3 +1,3 @@
 # sukimomoko
 
-Build with Hexo.
+Powered by Hexo.

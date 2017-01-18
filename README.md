@@ -1,0 +1,3 @@
+# sukimomoko
+
+Build with Hexo.
